@@ -1,6 +1,8 @@
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=llinfeng&count_private=true&theme=vue&showicons=true)](https://llinfeng.org/)
+👋 Welcome! I enjoy using and crafting tools, and finding better ways to apply them so I can focus on the core task of building—whether in research, data science, or applied projects.
 
 <!--
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=llinfeng&count_private=true&theme=vue&showicons=true)](https://llinfeng.org/)
+
 **llinfeng/llinfeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
